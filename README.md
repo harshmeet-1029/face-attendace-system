@@ -1,4 +1,4 @@
-```md
+
 # Face Attendance System 🚀
 Welcome to the **Face Attendance System**, an innovative solution that leverages facial recognition technology to streamline attendance tracking. This project offers a hassle-free and contactless way to mark attendance, making it ideal for schools, offices, or any place that requires quick and reliable attendance monitoring.
 
@@ -71,4 +71,3 @@ Contributions are welcome! If you have ideas for improving the system or run int
 This project is licensed under the MIT License.
 
 Developed with ❤️ for fast, reliable, and futuristic attendance systems.
-```
